@@ -1,2 +1,1 @@
-# Educational-Campus-Network-Design-and-Implementation
-**300-character CV description:**  Designed and implemented a secure campus network in Cisco Packet Tracer for a two-floor educational institute. Configured VLANs, inter-VLAN routing, DHCP, DNS, and IP addressing to provide scalable, secure connectivity, centralized services, and efficient resource sharing across departments.
+# Educational-Campus-Network-Design-and-ImplementationDesigned and implemented a secure campus network in Cisco Packet Tracer for a two-floor educational institute. Configured VLANs, inter-VLAN routing, DHCP, DNS, and IP addressing to provide scalable, secure connectivity, centralized services, and efficient resource sharing across departments.
